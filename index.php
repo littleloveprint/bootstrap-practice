@@ -73,6 +73,7 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<div class="box">
-								<h1>WELCOME!</h1>
-								<P>Hope you're well. I'm great. Let's go get food.</p>
+									<h1 class="text-center">WELCOME!</h1>
+									<P class="text-center">Hope you're well. I'm great. Let's go get food.</p>
+								</box>
 				</div>

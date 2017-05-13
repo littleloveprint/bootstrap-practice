@@ -46,7 +46,11 @@
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#">littleloveprint</a>
+							<nav class="navbar navbar-light bg-faded">
+								<a class="navbar-brand" href="#">
+									<img src="img/2.png" width="150" height="50" alt="littleloveprint logo">
+								</a>
+							</nav>
 						</div>
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

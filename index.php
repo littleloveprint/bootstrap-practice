@@ -7,10 +7,14 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 		<!-- Bootstrap Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+				crossorigin="anonymous"/>
 
 		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"/>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+				integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
+				crossorigin="anonymous"/>
 
 		<!-- Font Awesome -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -32,7 +36,9 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js" type="text/javascript"></script>
 
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+				  crossorigin="anonymous"></script>
 
 		<title>Lea McDuffie Bootstrap Challenge</title>
 	</head>
@@ -49,24 +55,28 @@
 
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+									  data-target="#main-nav" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<a class="navbar-brand" href="#"><img src="img/2.png" width="150" height="50" alt="littleloveprint logo" align="left"></a>
+							<a class="navbar-brand" href="#"><img src="img/2.png" width="150" height="50"
+																			  alt="littleloveprint logo" align="left"></a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="main-nav">
 							<ul class="nav navbar-nav navbar-right">
 								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Navigation Station<span class="caret"></span></a>
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+										aria-expanded="false">Navigation Station<span class="caret"></span></a>
 									<ul class="dropdown-menu">
 										<li><a href="https://www.bosquebrewing.com" target="_blank">Bosque Brewing Co.</a></li>
 										<li><a href="https://www.marblebrewery.com" target="_blank">Marble Brewery</a></li>
-										<li><a href="https://www.lacumbrebrewing.com" target="_blank">La Cumbre Brewing Co.</a></li>
+										<li><a href="https://www.lacumbrebrewing.com" target="_blank">La Cumbre Brewing Co.</a>
+										</li>
 										<li role="separator" class="divider"></li>
 										<li><a href="https://www.littleloveprint.io">All Lea</a></li>
 									</ul>
@@ -94,28 +104,79 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3">
-							<img class="responsive-image" data-src="holder.js/400x400/auto" src="img/bosque-white-sands.gif" width="182.5" height="243.28" alt="Bosque Beer GIF" data-holder-rendered="true">
+							<img class="responsive-image" data-src="holder.js/400x400/auto" src="img/bosque-white-sands.gif"
+								  width="182.5" height="243.28" alt="Bosque Beer GIF" data-holder-rendered="true">
 						</div>
 						<div class="col-md-9">
 							<h2 class="">ABQrafty!</h2>
-							<p class="lead">Brought to us in 16-ounce pints on tap, the condensation-covered glass and dim lighting yielded a shimmering copper-colored brew with a tawny center and a slight touch of haze. Atop the brew, a wonderful tight lacing with more than ample head retention and stick. Aroma is big, with notes of resinous pine, grapefruit, distinct fruit cocktail characters and caramelized sugars spread on toasted bread.</p>
+							<p class="lead">Brought to us in 16-ounce pints on tap, the condensation-covered glass and dim
+								lighting yielded a shimmering copper-colored brew with a tawny center and a slight touch of
+								haze. Atop the brew, a wonderful tight lacing with more than ample head retention and stick.
+								Aroma is big, with notes of resinous pine, grapefruit, distinct fruit cocktail characters and
+								caramelized sugars spread on toasted bread.</p>
 						</div>
 					</div>
 				</div>
 			</section>
 
+			<!-- Thumbnail Section -->
 			<section>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 text-center">
 
-			</section>
-							</div>
-							<div class="col-md-5 col-md-pull-7">
+							<!-- Icon -->
+							<span class="fa-stack- fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+							<!-- Panel -->
+							<div class="panel panel-dafault">
+								<div class="panel-body">
+									<h3>Brews</h3>
+									<p>words</p>
+								</div>
+							</div><!-- /.col-md-3 -->
+
+							<div class="col-md-3 text-center">
+
+								<!-- Icon -->
+								<span class="fa-stack- fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+								<!-- Panel -->
+								<div class="panel panel-dafault">
+									<div class="panel-body">
+										<h3>Brews</h3>
+										<p>words</p>
+									</div>
+								</div><!-- /.col-md-3 -->
+
+								<div class="col-md-3 text-center">
+
+									<!-- Icon -->
+									<span class="fa-stack- fa-5x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-beer fa-stack-1x fa-inverse"></i>
+							</span>
+
+									<!-- Panel -->
+									<div class="panel panel-dafault">
+										<div class="panel-body">
+											<h3>Brews</h3>
+											<p>words</p>
+										</div>
+									</div><!-- /.col-md-3 -->
+								</div>
 							</div>
 						</div>
-						<!-- /.row featurette -->
-						<hr class="featurette-dovider">
 					</div>
-			</main>
-		</div>
+				</div>
+			</section>
+
 		<!-- End of sfooter content -->
 		<footer>
 			<div class=""

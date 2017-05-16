@@ -84,25 +84,31 @@
 								<h1>WELCOME!</h1>
 								<P>Hope you're well. I'm great! Let's grab a beer!</p>
 							</div>
+						</div>
+					</div>
+				</div>
 			</section>
-					<div class="container">
-						<div class="row featurette">
-							<div class="col-md-7 col-md-push-5">
-								<h2 class="featurette-heading">ABQrafty!</h2>
-								<p class="lead">Brought to us in 16-ounce pints on tap, the condensation-covered glass and dim
-									lighting yielded a
-									shimmering copper-colored brew with a tawny center and a slight touch of haze. Atop the brew,
-									a
-									wonderful tight lacing with more than ample head retention and stick. Aroma is big, with
-									notes of
-									resinous pine, grapefruit, distinct fruit cocktail characters and caramelized sugars spread
-									on
-									toasted bread.</p>
+
+			<!-- Photo and text section -->
+			<section class="bg-info">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3">
+							<img class="responsive-image" data-src="holder.js/400x400/auto" src="img/bosque-white-sands.gif" width="182.5" height="243.28" alt="Bosque Beer GIF" data-holder-rendered="true">
+						</div>
+						<div class="col-md-9">
+							<h2 class="">ABQrafty!</h2>
+							<p class="lead">Brought to us in 16-ounce pints on tap, the condensation-covered glass and dim lighting yielded a shimmering copper-colored brew with a tawny center and a slight touch of haze. Atop the brew, a wonderful tight lacing with more than ample head retention and stick. Aroma is big, with notes of resinous pine, grapefruit, distinct fruit cocktail characters and caramelized sugars spread on toasted bread.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section>
+
+			</section>
 							</div>
 							<div class="col-md-5 col-md-pull-7">
-								<img class="featurette-image img-responsive center-block" data-src="holder.js/400x400/auto"
-									  src="img/bosque-white-sands.gif" class="img-responsive" width="182.5" height="243.28"
-									  alt="Responsive image" data-holder-rendered="true">
 							</div>
 						</div>
 						<!-- /.row featurette -->

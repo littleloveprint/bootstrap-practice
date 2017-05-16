@@ -18,3 +18,10 @@ body { width: 100%;}
 }
 
 /** Custom CSS **/
+section {
+	padding: 8rem 0;
+}
+
+footer {
+	padding: 2rem 0;
+}

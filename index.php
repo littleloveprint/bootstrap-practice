@@ -45,33 +45,28 @@
 
 				<!-- Navigation bar -->
 				<nav class="navbar navbar-default">
-					<div class="container-fluid">
+					<div class="container">
 
 						<!-- Brand and toggle get grouped for better mobile display -->
 						<div class="navbar-header">
-							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-									  data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-
-							<nav class="navbar-brand" href="#"><img src="img/2.png" width="150" height="50"
-																				 alt="littleloveprint logo" align="left"></a>
-							</nav>
+							<a class="navbar-brand" href="#"><img src="img/2.png" width="150" height="50" alt="littleloveprint logo" align="left"></a>
 						</div>
 
 						<!-- Collect the nav links, forms, and other content for toggling -->
-						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<div class="collapse navbar-collapse" id="main-nav">
 							<ul class="nav navbar-nav navbar-right">
 								<li class="dropdown">
-									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-										aria-expanded="false">Navigation Station<span class="caret"></span></a>
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Navigation Station<span class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a href="#">Bosque Brewing Co.</a></li>
-										<li><a href="#">Marble Brewery</a></li>
-										<li><a href="#">La Cumbre Brewing Co.</a></li>
+										<li><a href="https://www.bosquebrewing.com" target="_blank">Bosque Brewing Co.</a></li>
+										<li><a href="https://www.marblebrewery.com" target="_blank">Marble Brewery</a></li>
+										<li><a href="https://www.lacumbrebrewing.com" target="_blank">La Cumbre Brewing Co.</a></li>
 										<li role="separator" class="divider"></li>
 										<li><a href="https://www.littleloveprint.io">All Lea</a></li>
 									</ul>

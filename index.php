@@ -70,26 +70,21 @@
 										<li role="separator" class="divider"></li>
 										<li><a href="https://www.littleloveprint.io">All Lea</a></li>
 									</ul>
-								</li>
-							</ul>
-						</div>
-						<!-- /.navbar-collapse -->
-					</div>
-					<!-- /.container-fluid -->
-				</nav>
-				<!-- /.navigation bar -->
+						</div><!-- /.navbar-collapse -->
+					</div><!-- /.container-fluid -->
+				</nav><!-- /.navigation bar -->
 			</header>
 
-			<main>
+			<!-- Welcome -->
+			<section>
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-12">
-							<div class="box">
-								<h1 class="text-center">WELCOME!</h1>
-								<P class="text-center">Hope you're well. I'm great! Let's grab a beer!</p>
+						<div class="col-md-12">
+							<div class="jumbotron text-center">
+								<h1>WELCOME!</h1>
+								<P>Hope you're well. I'm great! Let's grab a beer!</p>
 							</div>
-						</div>
-					</div>
+			</section>
 					<div class="container">
 						<div class="row featurette">
 							<div class="col-md-7 col-md-push-5">

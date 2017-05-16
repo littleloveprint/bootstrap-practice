@@ -135,7 +135,7 @@
 							<div class="panel panel-dafault">
 								<div class="panel-body">
 									<h3>Brews</h3>
-									<p>words</p>
+									<p>Brewed with licorice; a proprietary, hand-smoked malt; and almost a pound of East Kent Goldings hops per barrel. Opaque brown in color, with muddy brown edges and a cola-colored head that drops quickly to a ringed lace. Strong and dominating licorice aroma with an underlying robust molasses-ness and highly roasted malts. Thick-ish, deep blackstrap molasses character (sweet, tangy nectar), quite robust. Licorice is assertive and smacks of herbal flavors. As the beer warms, both flavors become very intense, overpowering the palate a bit with some cloying action.</p>
 								</div>
 							</div><!-- /.col-md-3 -->
 
@@ -151,7 +151,7 @@
 								<div class="panel panel-dafault">
 									<div class="panel-body">
 										<h3>Brews</h3>
-										<p>words</p>
+										<p>Body is light, and the mouthfeel smooth. The palate gathers apple peel, light clove notes and a thin sweetness that's touched with caramel. In the middle, ripe and juicy fresh wheat malt with pear edge, while a husky, grainy, wheat twang livens things up. Suggestions of bubblegum are noted. There's very little bitterness, but a slight lemony sourness, banana pith and light hop leaf character that, combined, increase the perceived bitterness. Yeast is rather neutral, a bit chalky. Some medicinal phenols show through toward the finish. Finish dries the palate, with a lingering wheat and barley husk.</p>
 									</div>
 								</div><!-- /.col-md-3 -->
 
@@ -167,19 +167,22 @@
 									<div class="panel panel-dafault">
 										<div class="panel-body">
 											<h3>Brews</h3>
-											<p>words</p>
+											<p>Extremely pale straw yellow beer, a touch hazy, with a soda-like appearance. Candied ginger aroma, spicy and herbal, with suggestions of cardamom and lilacs. Thin and crisp in the mouth, with some unpleasant tannins up front. Compared to the aroma, the ginger character is very tame in the flavor, while a lemony bitterness puckers things up just a bit. Light pale malt sweetness, while the wildflower honey used is well-attenuated, leaving behind a pleasing floral note and slight remnants of raw honey. Hints of cardamom, with a lingering raw and semi-astringent pith, husky and wheat-like character in the finish. The tannins throughout the beer, especially in the finish, took a lot away from allowing the subtleties of the brew to shine. Interesting, but not refreshing or overly drinkable.</p>
 										</div>
-									</div><!-- /.col-md-3 -->
-								</div>
-							</div>
-						</div>
+									</div>
+								</div><!-- /.col-md-3 -->
+							</div><!-- /.row -->
+						</div><!-- /.container -->
+			</section>
+		</div>
+		<footer class="bg-info text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-md-offset-4">
+						This is a footer.. If you didn't know.
 					</div>
 				</div>
-			</section>
-
-		<!-- End of sfooter content -->
-		<footer>
-			<div class=""
+			</div>
 		</footer>
 	</body>
 </html>
